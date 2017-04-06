@@ -81,7 +81,8 @@
 	"creationDate": 513040663,
 	"displayValue": "web-3-starter",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-ariel"
+	"iconImageName": "meme-ariel",
+	"lastBuiltDate": 513211922
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
