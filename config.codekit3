@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25813",
 "files": {
+	"\/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/build",
+		"oF": 0
+		},
 	"\/css\/_semantic.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -21,6 +27,22 @@
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/css\/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/build\/css\/styles.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/styles.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/css\/styles.css.map",
+		"oF": 0
 		},
 	"\/css\/styles.scss": {
 		"aP": 0,
@@ -87,9 +109,105 @@
 		"oAP": "\/build\/html\/scripts.html",
 		"oF": 0
 		},
+	"\/img\/favicons\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 46887,
+		"oA": 0,
+		"oAP": "\/build\/img\/favicons\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 75
+		},
+	"\/img\/favicons\/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 278407,
+		"oA": 0,
+		"oAP": "\/build\/img\/favicons\/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 75
+		},
+	"\/img\/favicons\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 41775,
+		"oA": 0,
+		"oAP": "\/build\/img\/favicons\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 75
+		},
+	"\/img\/favicons\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/img\/favicons\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/img\/favicons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1231,
+		"oA": 0,
+		"oAP": "\/build\/img\/favicons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 75
+		},
+	"\/img\/favicons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 2447,
+		"oA": 0,
+		"oAP": "\/build\/img\/favicons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 75
+		},
+	"\/img\/favicons\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/img\/favicons\/favicon.ico",
+		"oF": 0
+		},
+	"\/img\/favicons\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/build\/img\/favicons\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/img\/favicons\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 23723,
+		"oA": 0,
+		"oAP": "\/build\/img\/favicons\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 75
+		},
+	"\/img\/favicons\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/img\/favicons\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/img\/menu.png": {
 		"ft": 32768,
-		"iS": 598,
+		"iS": 168,
 		"oA": 0,
 		"oAP": "\/build\/img\/menu.png",
 		"oF": 0,
@@ -141,7 +259,7 @@
 	"displayValue": "web-3-starter",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 514237180
+	"lastBuiltDate": 514248677
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
