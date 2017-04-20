@@ -100,7 +100,7 @@
 		"oAP": "\/build\/img\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -122,7 +122,7 @@
 		"oAP": "\/build\/img\/favicons\/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -139,7 +139,7 @@
 		"oAP": "\/build\/img\/favicons\/favicon-16x16.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -150,7 +150,7 @@
 		"oAP": "\/build\/img\/favicons\/favicon-32x32.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -175,7 +175,7 @@
 		"oAP": "\/build\/img\/favicons\/mstile-150x150.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -195,8 +195,8 @@
 		"oA": 0,
 		"oAP": "\/build\/img\/menu.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
