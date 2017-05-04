@@ -9,6 +9,230 @@
 	],
 "creatorBuild": "25813",
 "files": {
+	"\/css\/_semantic.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/docs\/css\/_semantic.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/css\/styles.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/docs\/css\/styles.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/docs\/docs",
+		"oF": 0
+		},
+	"\/fonts\/icons.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/fonts\/icons.eot",
+		"oF": 0
+		},
+	"\/fonts\/icons.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/fonts\/icons.otf",
+		"oF": 0
+		},
+	"\/fonts\/icons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/docs\/fonts\/icons.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/fonts\/icons.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/fonts\/icons.ttf",
+		"oF": 0
+		},
+	"\/fonts\/icons.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/fonts\/icons.woff",
+		"oF": 0
+		},
+	"\/fonts\/icons.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/fonts\/icons.woff2",
+		"oF": 0
+		},
+	"\/html\/head.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/docs\/html\/head.html",
+		"oF": 0
+		},
+	"\/html\/scripts.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/docs\/html\/scripts.html",
+		"oF": 0
+		},
+	"\/img\/favicons\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 39826,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 223203,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 35625,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/img\/favicons\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/img\/favicons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1237,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 2272,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/img\/favicons\/favicon.ico",
+		"oF": 0
+		},
+	"\/img\/favicons\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/docs\/img\/favicons\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/img\/favicons\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 20590,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/docs\/img\/favicons\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/menu.png": {
+		"ft": 32768,
+		"iS": 168,
+		"oA": 0,
+		"oAP": "\/docs\/img\/menu.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/index.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/docs\/index.html",
+		"oF": 0
+		},
+	"\/js\/jquery.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/docs\/js\/jquery.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/js\/scripts.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/docs\/js\/scripts.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/js\/semantic.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/docs\/js\/semantic.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		}
 	},
 "hooks": [
 	],
@@ -19,7 +243,7 @@
 	"displayValue": "web-3-starter",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 515460834
+	"lastBuiltDate": 515569579
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -275,7 +499,7 @@
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"buildFolderActive": 1,
-	"buildFolderName": "build",
+	"buildFolderName": "docs",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -1378,7 +1602,7 @@
 		},
 	"esLintSourceType": 0,
 	"externalServerAddress": "http:\/\/localhost:8888",
-	"gitIgnoreBuildFolder": 1,
+	"gitIgnoreBuildFolder": 0,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
@@ -2126,7 +2350,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/build"
+	"websiteRelativeRoot": "\/docs"
 	},
 "settingsFileVersion": "3"
 }
